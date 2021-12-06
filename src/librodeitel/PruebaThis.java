@@ -24,4 +24,4 @@ class TiempoSimple{
 	public String aStringUniversal() {
 		return String.format("%02d:%02d:%02d",this.hora, this.minuto, this.segundo);
 	}
-}
+} //continua pagina 324
